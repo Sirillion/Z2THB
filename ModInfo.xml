@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xml>
+	<ModInfo>
+		<Name value="Z2THB" />
+		<Description value="Z2THB is a patch to enable the target health bars for Z2. Requires a target health bar DMT mod to work." />
+		<Author value="Sirillion" />
+		<Version value="18.4.r1" />
+		<Website value="" />
+	</ModInfo>
+</xml>

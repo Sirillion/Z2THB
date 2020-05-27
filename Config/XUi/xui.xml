@@ -1,0 +1,12 @@
+<ProjectZ2>
+
+<!--	// Z2 // Compass -->
+
+		<set xpath="/xui/ruleset[@name='default']/window_group[@name='compass']">
+			<window name="windowCompass" anchor="CenterTop" />
+			<window name="windowTargetBar" anchor="CenterTop" />
+		</set>
+
+		<setattribute xpath="/xui//window_group[@name='compass']" name="actionset">false</setattribute>
+
+</ProjectZ2>
