@@ -8,5 +8,6 @@
 		<launcher_version>0.0.0</launcher_version>
 	</info>
 	<dependencies>
+		<dependency>Z2</dependency>
 	</dependencies>
 </mod>
