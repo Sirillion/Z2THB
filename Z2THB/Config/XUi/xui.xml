@@ -4,6 +4,7 @@
 
 		<set xpath="/xui/ruleset[@name='default']/window_group[@name='compass']">
 			<window name="windowCompass" anchor="CenterTop" />
+			<window name="dayTimeHUD" anchor="LeftTop" />
 			<window name="windowTargetBar" anchor="CenterTop" />
 		</set>
 
