@@ -3,9 +3,9 @@
 <xml>
 	<ModInfo>
 		<Name value="Z2THB" />
-		<Description value="Z2THB is a patch to enable the target health bars for Z2. Requires a target health bar DMT mod to work." />
+		<Description value="Z2THB is a patch to enable the target health bars for Z2. Delete to disable." />
 		<Author value="Sirillion" />
-		<Version value="18.4.r1" />
-		<Website value="" />
+		<Version value="19.0.Release1" />
+		<Website value="https://community.7daystodie.com/topic/19118-z2-hud-replacement/" />
 	</ModInfo>
 </xml>

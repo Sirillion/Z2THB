@@ -1,10 +1,10 @@
 <mod>
 	<info>
-		<author>Sirillion</author>
 		<name>Z2THB</name>
-		<description>Z2THB is a patch to enable the target health bars for Z2. Requires a target health bar DMT mod to work.</description>
-		<mod_version>18.4.r1</mod_version>
-		<game_version>18.4</game_version>
+		<author>Sirillion</author>
+		<description>Z2THB is a patch to enable the target health bars for Z2. Delete to disable.</description>
+		<mod_version>19.0.Release1</mod_version>
+		<game_version>19.0</game_version>
 		<launcher_version>0.0.0</launcher_version>
 	</info>
 	<dependencies>
