@@ -1,14 +1,12 @@
-# Z2THB - A18
+# Z2THB - A19
 
 <p align="center">
-  <img src="https://imgur.com/9Z4s6sE.jpg" width="700" title="Z2THB - Target Healthbar - A18">
+  <img src="https://imgur.com/9Z4s6sE.jpg" width="700" title="Z2THB - Target Healthbar - A19">
 </p>
 
 **Description:**
 
 Z2THB enables Target Health Bars for Z2.
-
-Thank you sphereii for creating the harmony scripts needed for this modlet to function.
 
 > Dependencies: Z2.
 
